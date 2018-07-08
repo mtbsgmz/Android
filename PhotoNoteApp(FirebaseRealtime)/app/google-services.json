@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "560921739676",
+    "firebase_url": "https://photonote-13b4d.firebaseio.com",
+    "project_id": "photonote-13b4d",
+    "storage_bucket": "photonote-13b4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560921739676:android:83cc2d8977fdca43",
+        "android_client_info": {
+          "package_name": "com.atilsamancioglu.instafirebasejav"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "560921739676-k83f7ksk0ifvier92plfuptn8l32tm06.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.atilsamancioglu.instafirebasejav",
+            "certificate_hash": "154b92d7da6dee05feb60e978e9674d61aedd022"
+          }
+        },
+        {
+          "client_id": "560921739676-en0u558ths15pbrmkudija55805pm53l.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "560921739676-en0u558ths15pbrmkudija55805pm53l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnZ3IAmO6yxCXuE0t6NlsmjOylFziT5Ts"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "560921739676-en0u558ths15pbrmkudija55805pm53l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560921739676:android:76396eec37802e5d",
+        "android_client_info": {
+          "package_name": "com.mtbsgmz.photonote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "560921739676-uqi9ceec7sqttk5tdefo71isq32s090r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mtbsgmz.photonote",
+            "certificate_hash": "154b92d7da6dee05feb60e978e9674d61aedd022"
+          }
+        },
+        {
+          "client_id": "560921739676-en0u558ths15pbrmkudija55805pm53l.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "560921739676-en0u558ths15pbrmkudija55805pm53l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnZ3IAmO6yxCXuE0t6NlsmjOylFziT5Ts"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "560921739676-en0u558ths15pbrmkudija55805pm53l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

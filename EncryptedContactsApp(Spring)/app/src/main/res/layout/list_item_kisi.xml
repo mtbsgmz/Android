@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="50dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:id="@+id/ptGenisYazi"
+        android:layout_height="wrap_content"
+        android:layout_weight="1" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_weight="1"
+        android:gravity="right|center"
+        android:orientation="horizontal">
+
+        <Space
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/ptIsim"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="İsim" />
+
+            <TextView
+                android:id="@+id/ptTelefon"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Telefon" />
+
+        </LinearLayout>
+
+        <ImageView
+            android:id="@+id/btnDuzenle"
+            android:layout_width="39dp"
+            android:layout_height="30dp"
+            android:layout_weight="1"
+            android:background="@drawable/edit_user" />
+
+        <ImageView
+            android:id="@+id/btnAra"
+            android:layout_width="39dp"
+            android:layout_height="39dp"
+            android:layout_weight="1"
+            android:background="@drawable/gcalll" />
+
+        <ImageView
+            android:id="@+id/btnSms"
+            android:layout_width="39dp"
+            android:layout_height="39dp"
+            android:layout_weight="1"
+            android:background="@drawable/sms_user" />
+    </LinearLayout>
+</LinearLayout>
